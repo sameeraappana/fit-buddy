@@ -1,0 +1,12 @@
+.MapContainer {
+    height: 400px;
+    width: 100%;
+    margin: 20px 0;
+  }
+
+.destination-marker {
+background-color: red;
+border-radius: 50%;
+width: 10px;
+height: 10px;
+}
