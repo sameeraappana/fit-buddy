@@ -1,10 +1,6 @@
 # Fit Buddy
 An app which takes your goals and gamifies them
 
-## Current Progress of this App
-![Watch the video](/src/assets/app_progress_1.mov)
-
-
 ## Available Scripts
 
 In the project directory, you can run:
